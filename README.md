@@ -1,6 +1,6 @@
 # shoppingweb
 系统功能流程        
-![Alt text](https://github.com/liwenliang0/shoppingweb.git/raw/master/image/process.png)     
+![Alt text](https://github.com/liwenliang0/shoppingweb/raw/master/image/process.png)    
 通过主页的顶部栏，用户可以实现注册账号，登陆，注销。     
 登陆后，用户点击顶部栏的用户名，查看用户信息，修改用户名，手机号和密码等。             
 通过主页的搜索栏或者右面的商品分类栏，用户可以查询到自己想要的商品，页面会通过分页的方式显示出来，在商品的显示页面。       
